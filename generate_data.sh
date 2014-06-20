@@ -10,3 +10,5 @@ done
 awk '{print $1,$2^2}' data1.txt > data1_new.txt
 cat data1_new.txt > data1.txt
 rm data1_new.txt
+
+echo done >> data1.txt
