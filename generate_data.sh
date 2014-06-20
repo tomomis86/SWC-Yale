@@ -1,5 +1,5 @@
 #Comment for this loop print 1 to 10
-#This is fun
+#This is now on github
 
 
 for i in {1..10};
